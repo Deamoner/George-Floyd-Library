@@ -13,9 +13,9 @@ TODO: Add Medium Article on the subject
 ## Roadmap
 
 v0.1
-- [ ] Privy Filter - Photo Privacy Library
-- [ ] Notebook get all Characters and Poses in Scene
-- [ ] Notebook get all Characters Skeletal Depth Location
+- [X] Privy Filter - Photo Privacy Library
+- [X] Notebook get all Characters and Poses in Scene
+- [X] Notebook get all Characters Skeletal Depth Location
 - [ ] Traintest labeled dataset of scenes and pipeline of character skeletal location data
 - [ ] Logistic Regression on Vector Skeletal Differentials Classification Model Training
 - [ ] v0.1 Python Package Release
