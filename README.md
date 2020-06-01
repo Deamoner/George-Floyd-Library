@@ -1,6 +1,6 @@
 # George-Floyd Library
 ## Live Brutality Identification  
-## Built with :heart: by [Matthew Davis](https://www.linkedin.com/in/tech-lead-matt-davis/) - [linkedin](https://www.linkedin.com/in/tech-lead-matt-davis/) - [github](https://github.com/Deamoner) - [Medium](https://medium.com/@mdavis_71283)
+## Built with :heart: by [Matthew Davis](https://www.linkedin.com/in/tech-lead-matt-davis/) - [linkedin](https://www.linkedin.com/in/tech-lead-matt-davis/) - [github](https://github.com/Deamoner) - [Medium](https://medium.com/@mdavis_71283) - [Youtube](https://www.youtube.com/channel/UCJNZxBqs8ElqouPqAkZLlqg) - [Facebook](https://www.facebook.com/matthewjamesdavis/)
 
 Inspired by the brutality of the George Floyd video and the riots this library seeks to give a methodology and machine learning library for automated identification and mechanism for alert of current brutal situations that are being recorded.
 
@@ -8,7 +8,7 @@ Violence as a response in any situation does not move us in the right direction.
 
 TODO: Add Medium Article on the subject
 
-**Help Wanted** - Come help build products that change the world. 
+**Help Wanted** - Come help build products that change the world.
 
 ## Roadmap
 
