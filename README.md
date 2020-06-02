@@ -17,17 +17,19 @@ v0.1
 - [X] Notebook get all Characters and Poses in Scene
 - [X] Notebook get all Characters Skeletal Depth Location
 - [X] Notebook for dataset generation - Will complete with labels
-- [ ] Manual data labelling of minimum 1000 pictures 
-- [ ] Traintest labeled dataset of scenes and pipeline of character skeletal location data
-- [ ] Logistic Regression on Vector Skeletal Differentials Classification Model Training
+- [ ] Manual data labelling of minimum 1000 pictures
+- [ ] Train/test labeled dataset of scenes and pipeline of character skeletal location data
+- [ ] Logistic Regression(May Change) on Vector Skeletal Differentials Classification Model Training
 - [ ] v0.1 Python Package Release
 
 v0.5
 - [ ] Review Methodology Accuracy and Corner Cases to Determine new v0.5 Methodology Improvements
+- [ ] Facial Aggression / Age Detection / Sex Detection - Additional Features using the deepface library
 - [ ] Roadmap Planning for Next Gen
 
 ## Possible Features Improvement List:
-1. Facial Aggression - Identify face and level of aggression to add to the model.
+1. Facial Emotion - Identify face and level of aggression to add to the model.
+2. Age Detection -
 2. Sex Identification
 2. Gun Identification
 3. Blood and Cuts Identification
