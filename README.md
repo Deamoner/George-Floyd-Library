@@ -16,6 +16,8 @@ v0.1
 - [X] Privy Filter - Photo Privacy Library
 - [X] Notebook get all Characters and Poses in Scene
 - [X] Notebook get all Characters Skeletal Depth Location
+- [X] Notebook for dataset generation - Will complete with labels
+- [ ] Manual data labelling of minimum 1000 pictures 
 - [ ] Traintest labeled dataset of scenes and pipeline of character skeletal location data
 - [ ] Logistic Regression on Vector Skeletal Differentials Classification Model Training
 - [ ] v0.1 Python Package Release
